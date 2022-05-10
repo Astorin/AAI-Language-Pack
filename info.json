@@ -1,8 +1,25 @@
-{  
-   "name": "AAI_Language_Pack",
-   "title": "AAI Language Pack",
-   "description": "Multi-language support for AAI mods.",
-   "author": "Shadow_Man",
-   "version": "1.1.10",
-   "factorio_version": "1.1"
+{
+  "name": "AAI_Language_Pack",
+  "title": "AAI Language Pack",
+  "description": "Multi-language support for AAI mods.\n\nContribute your translations on Github.",
+  "author": "Shadow_Man",
+  "version": "1.1.11",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "?aai-containers >= 0.2.10",
+    "?aai-industry >= 0.5.17",
+    "?aai-programmable-structures >= 0.7.3",
+    "?aai-programmable-vehicles >= 0.7.21",
+    "?aai-signal-transmission >= 0.4.4",
+    "?aai-signals >= 0.6.1",
+    "?aai-vehicles-chaingunner >= 0.6.1",
+    "?aai-vehicles-flame-tank >= 0.5.1",
+    "?aai-vehicles-flame-tumbler >= 0.6.1",
+    "?aai-vehicles-hauler >= 0.6.1",
+    "?aai-vehicles-ironclad >= 0.6.3",
+    "?aai-vehicles-laser-tank >= 0.6.4",
+    "?aai-vehicles-miner >= 0.6.3",
+    "?aai-vehicles-warden >= 0.5.3",
+    "?aai-zones >= 0.6.4"
+  ]
 }

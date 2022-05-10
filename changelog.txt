@@ -1,4 +1,13 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.11
+Date: 10. 05. 2022
+  Updates:
+    - Added Russian locale for AAI Vehicles: Ironclad v0.6.3 (Shadow_Man)
+    - Updated Russian locale for AAI Containers & Warehouses v0.2.10 (Shadow_Man)
+    - Updated Russian locale for AAI Industry v0.5.17 (Shadow_Man)
+    - Updated Russian locale for AAI Programmable Vehicles v0.7.21 (Shadow_Man)
+
+---------------------------------------------------------------------------------------------------
 Version: 1.1.10
 Date: 05. 10. 2021
   Updates:
