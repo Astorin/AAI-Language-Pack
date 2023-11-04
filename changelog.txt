@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.15
+Date: 04. 11. 2023
+  Updates:
+    - Updated Russian locale for AAI Signal Transmission v0.4.9 (Shadow_Man)
+    - Updated Russian locale for AAI Vehicles: Miner v0.6.4 (Shadow_Man)
+    - Fixed some typos in AAI Programmable Vehicles v0.7.24 (MaximPixel, Shadow_Man)
+
+---------------------------------------------------------------------------------------------------
 Version: 1.1.14
 Date: 19. 05. 2023
   Updates:
