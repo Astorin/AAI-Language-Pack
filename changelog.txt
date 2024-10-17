@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.0
+Date: 17. 10. 2024
+  Updates:
+    - Updated to Factorio 2.0
+    - Updated Russian locale for AAI Loaders v0.2.1 (Shadow_Man)
+    - Updated Russian locale for AAI Containers v0.3.0 (Shadow_Man)
+
+---------------------------------------------------------------------------------------------------
 Version: 1.1.15
 Date: 04. 11. 2023
   Updates:
